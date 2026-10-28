@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="01-BugHuntWarmup/01-BugHuntWarmup.csproj" />
+  <Project Path="02-Recyclagepark/02-Recyclagepark.csproj" />
+  <Project Path="03-MonsterArena/03-MonsterArena.csproj" />
+</Solution>
+
